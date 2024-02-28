@@ -17,6 +17,6 @@ class Program
             n++;
         } while (Math.Abs(term) >= epsilon);
 
-        Console.WriteLine("Sum of the series: " + sum);
+        Console.WriteLine("Sum : " + sum);
     }
 }
